@@ -16,7 +16,7 @@ import cn.javaeebase.modules.email.service.IEmailSendLogService;
  * @title: EmailDaoIml.java
  * @package cn.javaeebase.modules.email.dao
  * @description: 邮件信息返回
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年6月8日 上午11:20:04
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

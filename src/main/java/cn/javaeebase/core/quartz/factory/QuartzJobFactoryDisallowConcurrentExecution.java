@@ -16,7 +16,7 @@ import cn.javaeebase.core.quartz.utils.TaskUtils;
  * @title: QuartzJobFactoryDisallowConcurrentExecution.java
  * @package cn.javaeebase.core.quartz.factory
  * @description: 若一个方法一次执行不完下次轮转时则等待改方法执行完后才执行下一次操作
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年5月10日 上午12:24:52
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

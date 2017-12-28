@@ -15,7 +15,7 @@ import javax.servlet.http.HttpServletResponse;
  * @title: CookieUtils.java
  * @package cn.javaeebase.core.utils
  * @description: Cookie工具类
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年5月11日 下午2:43:21
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

@@ -33,7 +33,7 @@ import java.util.List;
  * OnlineSessionDao同步
  * <p/>
  * <p>
- * User: Zhang Kaitao
+ * User: 李帅超
  * <p>
  * Date: 13-3-21 下午2:28
  * <p>

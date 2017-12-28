@@ -13,7 +13,7 @@ import java.util.List;
  * 
  * @ClassName: CodegenTableEntity
  * @Description:代码生成的字段信息
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年2月27日 下午5:35:23
  * 
  * @Copyright: 2017 www.javaeebase Inc. All rights reserved.

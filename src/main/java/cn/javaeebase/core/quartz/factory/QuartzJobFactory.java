@@ -14,7 +14,7 @@ import cn.javaeebase.core.quartz.utils.TaskUtils;
  * @title:  QuartzJobFactory.java   
  * @package cn.javaeebase.core.quartz.factory
  * @description:   计划任务执行处 无状态
- * @author: 王存见   
+ * @author: 李帅超
  * @date:   2017年5月10日 上午12:24:41   
  * @version V1.0 
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

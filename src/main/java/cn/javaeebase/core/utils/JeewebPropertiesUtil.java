@@ -7,7 +7,7 @@ import com.google.common.collect.Maps;
 /**
  * 全局配置文件工具类
  * 
- * @author 王存见
+ * @author 李帅超
  * @version 2017-01-19
  */
 public class JeewebPropertiesUtil extends PropertiesUtil {

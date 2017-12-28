@@ -19,7 +19,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  * @title:  RetryLimitHashedCredentialsMatcher.java   
  * @package cn.javaeebase.modules.sys.security.shiro.web.filter.authc.credential
  * @description:   密码重试次数限制  
- * @author: 王存见   
+ * @author: 李帅超
  * @date:   2017年6月26日 下午5:55:43   
  * @version V1.0 
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

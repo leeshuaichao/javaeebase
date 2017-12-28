@@ -17,7 +17,7 @@ import cn.javaeebase.core.utils.StringUtils;
  * @title: DataGridToolbarTag.java
  * @package cn.javaeebase.core.tags.grid
  * @description:工具栏目
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年3月12日 下午1:32:07
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

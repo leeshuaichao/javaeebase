@@ -7,7 +7,7 @@ import cn.javaeebase.core.utils.DateUtils;
 /**
  * 时间处理类
  * 
- * @author 王存见
+ * @author 李帅超
  * @date 2016-12-21
  * @version V 1.0
  */

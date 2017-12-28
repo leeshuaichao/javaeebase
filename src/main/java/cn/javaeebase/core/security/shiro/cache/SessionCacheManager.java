@@ -27,7 +27,7 @@ import cn.javaeebase.core.utils.ServletUtils;
 /**
  * 缓存
  * 
- * @author 王存见
+ * @author 李帅超
  * @version 2017-02-23
  */
 public class SessionCacheManager implements CacheManager {

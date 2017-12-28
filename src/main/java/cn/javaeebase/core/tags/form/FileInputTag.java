@@ -21,7 +21,7 @@ import cn.javaeebase.modules.sys.tags.SysFunctions;
  * @package cn.javaeebase.core.tags.form
  * @description: http://plugins.krajee.com/file-avatar-upload-demo#avatar-upload
  *               -1 文档
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年5月24日 上午8:58:15
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

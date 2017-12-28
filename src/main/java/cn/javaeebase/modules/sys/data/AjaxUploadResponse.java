@@ -12,7 +12,7 @@ import java.util.List;
  * @title: AjaxUploadResponse.java
  * @package cn.javaeebase.modules.sys.data
  * @description: 文件上传响应
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年5月22日 下午9:23:14
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

@@ -117,7 +117,7 @@
     <script src="${adminPath}/static/iCheck/icheck.min.js"></script>
 
     <!-- 系统公用JS -->
-    <script src="${adminPath}/static/common/js/jeeweb.js"></script>
+    <script src="${adminPath}/static/common/js/javaeebase.js"></script>
     
     <!-- Bootstrap table -->
     <script src="${adminPath}/static/bootstrap-table/bootstrap-table.js"></script>

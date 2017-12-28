@@ -24,7 +24,7 @@ import cn.javaeebase.core.tags.html.resolver.HtmlComponentDTDEntityResolver;
 
 
 /**
- * @author 王存见
+ * @author 李帅超
  * 
  */
 public class DefaultHtmlComponentBuilder implements HtmlComponentBuilder, ResourceLoaderAware {

@@ -10,7 +10,7 @@ import java.util.Map;
  * @title: HtmlComponentBuilder.java
  * @package cn.javaeebase.core.tags.html.builder.builder
  * @description: 组建构造器具
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年5月13日 上午10:20:37
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

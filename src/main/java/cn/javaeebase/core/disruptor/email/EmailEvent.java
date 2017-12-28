@@ -9,7 +9,7 @@ import cn.javaeebase.core.utils.email.EmailResult;
  * @title: LongEvent.java
  * @package cn.javaeebase.core.disruptor.sms
  * @description: 内容传递
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年6月7日 下午11:17:40
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

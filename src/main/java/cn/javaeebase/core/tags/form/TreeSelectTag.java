@@ -16,7 +16,7 @@ import cn.javaeebase.core.utils.StringUtils;
  * @title: TreeSelect.java
  * @package cn.javaeebase.core.tags.form
  * @description: 树形选择
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年4月10日 下午9:16:24
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

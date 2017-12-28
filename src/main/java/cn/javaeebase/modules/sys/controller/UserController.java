@@ -39,7 +39,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
  * @title: UserController.java
  * @package cn.javaeebase.modules.sys.controller
  * @description: 用户操作控制器
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年5月25日 上午9:52:20
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

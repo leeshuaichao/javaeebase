@@ -6,7 +6,7 @@
     <description>Spring Framework JSP Form Tag Library</description>
     <tlib-version>3.0</tlib-version>
     <short-name>fns</short-name>
-    <uri>/tags/jeeweb-functions</uri>
+    <uri>/tags/javaeebase-functions</uri>
 	
 	<function>
 	  <description>获得后台配置前缀地址</description>
@@ -28,7 +28,7 @@
 	  <description>获取当前用户对象</description>
 	  <name>getUser</name>
 	  <function-class>cn.javaeebase.modules.sys.utils.UserUtils</function-class>
-	  <function-signature>cn.jeeweb.modules.sys.entity.User getUser()</function-signature>
+	  <function-signature>cn.javaeebase.modules.sys.entity.User getUser()</function-signature>
 	  <example>${fns:getUser()}</example>  
 	</function>
 	
@@ -53,7 +53,7 @@
 	  <description>获取当前菜单</description>
 	  <name>getCurrentMenu</name>
 	  <function-class>cn.javaeebase.modules.sys.utils.UserUtils</function-class>
-	  <function-signature>cn.jeeweb.modules.sys.entity.Menu getCurrentMenu()</function-signature>
+	  <function-signature>cn.javaeebase.modules.sys.entity.Menu getCurrentMenu()</function-signature>
 	  <example>${fns:getCurrentMenu()}</example>  
 	</function>
 	
@@ -61,7 +61,7 @@
 	  <description>获取当前菜单</description>
 	  <name>getMenuById</name>
 	  <function-class>cn.javaeebase.modules.sys.utils.UserUtils</function-class>
-	  <function-signature>cn.jeeweb.modules.sys.entity.Menu getMenuById(java.lang.String)</function-signature>
+	  <function-signature>cn.javaeebase.modules.sys.entity.Menu getMenuById(java.lang.String)</function-signature>
 	  <example>${fns:getMenuById()}</example>  
 	</function>
 

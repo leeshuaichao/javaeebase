@@ -28,9 +28,9 @@
 
                     </div>
                     <div class="portlet-body">
-	                    <p><i class="fa fa-send-o"></i> 官网：<a href="http://www.jeeweb.cn/" target="_blank">http://www.jeeweb.cn/</a></p>
+	                    <p><i class="fa fa-send-o"></i> 官网：<a href="http://www.javaeebase.cn/" target="_blank">http://www.javaeebase.cn/</a></p>
 	                    <p><i class="fa fa-qq"></i> QQ群：<a href="javascript:;">570062301</a></p>
-	                    <p><i class="fa fa-code"></i> 源码下载：<a href="http://git.oschina.net/dataact/jeeweb/"  target="_blank">开源中国</a></p>
+	                    <p><i class="fa fa-code"></i> 源码下载：<a href="http://git.oschina.net/dataact/javaeebase/"  target="_blank">开源中国</a></p>
 	                </div>
 
                 </div>

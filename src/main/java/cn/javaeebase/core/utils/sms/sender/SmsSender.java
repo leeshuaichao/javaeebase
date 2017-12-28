@@ -6,7 +6,7 @@ import cn.javaeebase.core.utils.sms.data.SmsTemplate;
 /**
  * 短信发射器
  * 
- * @author 王存见
+ * @author 李帅超
  *
  */
 public abstract class SmsSender {

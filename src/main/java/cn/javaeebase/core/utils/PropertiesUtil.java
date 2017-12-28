@@ -14,7 +14,7 @@ import org.slf4j.LoggerFactory;
 /**
  * Properties文件工具类
  * 
- * @author 王存见
+ * @author 李帅超
  * @version 2017-01-19
  */
 public class PropertiesUtil extends ObjectSwitchHelper {

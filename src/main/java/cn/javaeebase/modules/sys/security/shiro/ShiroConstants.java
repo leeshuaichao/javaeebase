@@ -6,7 +6,7 @@
 package cn.javaeebase.modules.sys.security.shiro;
 
 /**
- * <p>User: Zhang Kaitao
+ * <p>User: 李帅超
  * <p>Date: 13-3-22 上午7:44
  * <p>Version: 1.0
  */

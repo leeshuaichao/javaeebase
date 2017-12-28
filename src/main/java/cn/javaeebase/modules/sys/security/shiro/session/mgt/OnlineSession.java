@@ -13,7 +13,7 @@ import org.apache.shiro.session.mgt.SimpleSession;
  * @title: OnlineSession.java
  * @package cn.javaeebase.modules.sys.security.shiro.session.mgt
  * @description:
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年6月26日 下午5:57:27
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

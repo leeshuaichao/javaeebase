@@ -47,7 +47,7 @@ import cn.javaeebase.modules.sys.service.IMenuService;
  * @package cn.javaeebase.modules.codegen.controller
  * @description: // http://www.runoob.com/mysql/mysql-data-types.html //
  *               http://www.cnblogs.com/htht66/archive/2012/02/11/2346835.html
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年7月21日 上午11:23:04
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

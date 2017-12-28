@@ -12,7 +12,7 @@ import cn.javaeebase.core.utils.MessageUtils;
  * @title:  WebStartInitListener.java   
  * @package cn.javaeebase.modules.common.listener
  * @description:   程序启动完成打印一个日志
- * @author: 王存见   
+ * @author: 李帅超
  * @date:   2017年5月7日 下午2:35:48   
  * @version V1.0 
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

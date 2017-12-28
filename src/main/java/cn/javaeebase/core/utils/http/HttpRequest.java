@@ -14,7 +14,7 @@ import cn.javaeebase.core.utils.StringUtils;
 /**
  * HTTP网络请求
  * 
- * @author 王存见
+ * @author 李帅超
  *
  */
 public class HttpRequest {

@@ -39,7 +39,7 @@ import freemarker.template.TemplateException;
  * @title: TableService.java
  * @package cn.javaeebase.modules.codegen.service.impl
  * @description:
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年5月8日 上午11:17:41
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

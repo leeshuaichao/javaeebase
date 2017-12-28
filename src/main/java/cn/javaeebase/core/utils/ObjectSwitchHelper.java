@@ -3,7 +3,7 @@ package cn.javaeebase.core.utils;
 /**
  * 加载基础
  * 
- * @author 王存见
+ * @author 李帅超
  *
  */
 public abstract class ObjectSwitchHelper {

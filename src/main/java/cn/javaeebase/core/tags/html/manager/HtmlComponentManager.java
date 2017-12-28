@@ -16,7 +16,7 @@ import freemarker.template.Template;
 /**
  * HTML组建管理器
  * 
- * @author 王存见
+ * @author 李帅超
  * @version 2017-02-09
  */
 public class HtmlComponentManager {

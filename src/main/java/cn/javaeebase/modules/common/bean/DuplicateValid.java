@@ -3,7 +3,7 @@ package cn.javaeebase.modules.common.bean;
 /**
  * 重复验证
  * 
- * @author 王存见
+ * @author 李帅超
  *
  */
 @SuppressWarnings("serial")

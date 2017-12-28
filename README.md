@@ -1,30 +1,24 @@
-JeeWeb敏捷开发平台(Mybatis)
+javaeebase
 ===============
-* 	QQ交流群： 570062301
-* 	官方网站： [https://www.jeeweb.cn](https://www.jeeweb.cn)
-* 	官方论坛： [http://bbs.jeeweb.cn](http://bbs.jeeweb.cn)
-* 	项目演示： [https://mybatis.jeeweb.cn](https://mybatis.jeeweb.cn)
-*  Hibernate版本： [https://github.com/white-cat/jeeweb/](https://github.com/white-cat/jeeweb/)
-
 简介
 -----------------------------------
-JeeWeb Mybatis版本是一款基于SpringMVC+Spring+Mybatis+Mybatis Plus的敏捷开发系统；它是一款具有代码生成功能的智能快速开发平台；是以Spring Framework为核心容器，Spring MVC为模型视图控制器，Mybatis为数据访问层， Apache Shiro为权限授权层，Ehcahe对常用数据进行缓存，Disruptor作为并发框架，Bootstrap作为前端框架的优秀 **开源** 系统。
+JavaEEBase Mybatis版本是一款基于SpringMVC+Spring+Mybatis+Mybatis Plus的敏捷开发系统；它是一款具有代码生成功能的智能快速开发平台；是以Spring Framework为核心容器，Spring MVC为模型视图控制器，Mybatis为数据访问层， Apache Shiro为权限授权层，Ehcahe对常用数据进行缓存，Disruptor作为并发框架，Bootstrap作为前端框架的优秀 **开源** 系统。
 
-JeeWeb是一款 **全开源开发平台** ，特别 **代码生成器模块也采用开源模式** ，各位开发者可以根据自己的需要改造出更加适合自己的代码生成器，不管是做项目、学习、接私活它都将是你的最佳拍档；
+JavaEEBase是一款 **全开源开发平台** ，特别 **代码生成器模块也采用开源模式** ，各位开发者可以根据自己的需要改造出更加适合自己的代码生成器，不管是做项目、学习、接私活它都将是你的最佳拍档；
 
-JeeWeb主要定位于企业快速开发平台建设，已内置很多优秀的基础功能和高效的 **代码生成** 工具，包括：系统权限组件、数据权限组件、数据字典组件、核心工具组件、视图操作组件、代码生成、 **UI模版标签** 库等。前端界面风格采用了结构简单、性能优良、页面美观大气的Twitter Bootstrap页面展示框架。采用分层设计、提交数据安全编码、密码加密、访问验证、数据权限验证。使用Maven做项目管理，提高项目的易开发性、扩展性。
+JavaEEBase主要定位于企业快速开发平台建设，已内置很多优秀的基础功能和高效的 **代码生成** 工具，包括：系统权限组件、数据权限组件、数据字典组件、核心工具组件、视图操作组件、代码生成、 **UI模版标签** 库等。前端界面风格采用了结构简单、性能优良、页面美观大气的Twitter Bootstrap页面展示框架。采用分层设计、提交数据安全编码、密码加密、访问验证、数据权限验证。使用Maven做项目管理，提高项目的易开发性、扩展性。
 
 目前功能模块代码生成器、权限框架、数据字典、数据缓存、并发框架、数据监控、计划任务、多数据源管理、附件管理、类似mybatis动态SQL、UI模板标签、短信发送、邮件发送、统计功能等功能。
 
-JeeWeb的开发方式采用（ **代码生成器快速设计生成代码->手工完善逻辑->丰富模板标签快速前端开发** ），可以快速协助java开发人员解决60%的重复工作，让开发人员更多关注业务逻辑的实现，框架使用前端模板标签，解放JAVA开发人员的开发压力，提高开发效率，为企业节省项目研发成本，减少开发周期。
+JavaEEBase的开发方式采用（ **代码生成器快速设计生成代码->手工完善逻辑->丰富模板标签快速前端开发** ），可以快速协助java开发人员解决60%的重复工作，让开发人员更多关注业务逻辑的实现，框架使用前端模板标签，解放JAVA开发人员的开发压力，提高开发效率，为企业节省项目研发成本，减少开发周期。
 
-JeeWeb 技术特点
+JavaEEBase 技术特点
 -----------------------------------
-JeeWeb使用目前流程的WEB开发架构技术，如 **SpringMVC, Mybatis,Apache Shiro, Disruptor , ehcache, Jquery ,BootStrap** 等等，支持多种数据库MySQL, Oracle, sqlserver等。  **分层设计：使用分层设计，分为dao，service，Controller，view层，层次清楚，低耦合，高内聚。**  
+JavaEEBase使用目前流程的WEB开发架构技术，如 **SpringMVC, Mybatis,Apache Shiro, Disruptor , ehcache, Jquery ,BootStrap** 等等，支持多种数据库MySQL, Oracle, sqlserver等。  **分层设计：使用分层设计，分为dao，service，Controller，view层，层次清楚，低耦合，高内聚。**  
 
 安全考虑：严格遵循了web安全的规范，前后台双重验证，参数编码传输，密码md5加密存储，shiro权限验证，从根本上避免了SQL注入，XSS攻击，CSRF攻击等常见的web攻击手段。
 
-JeeWeb 功能特点
+JavaEEBase 功能特点
 -----------------------------------
 * 	采用SpringMVC+Spring+Mybatis+Mybatis Plus+Shiro+ Ehcache+Disruptor+Jquery + Boostrap + Ztree等基础前后端架构架构
 * 	采用面向声明的开发模式， 基于泛型编写极少代码即可实现复杂的数据展示、数据编辑、表单处理等功能，在不使用代码生成器的情况下，也只需要很少的代码就能实现基础的CURD操作，再配合在线开发与代码生成器的使用，更加加快了开发的进度，将J2EE的开发效率成本提高，可以将代码减少60%以上。
@@ -80,7 +74,7 @@ JeeWeb 功能特点
 
 简单使用说明
 -----------------------------------
-* 导入sql/jeeweb-mysql-v1.0.sql文件到mysql数据库
+* 导入sql/javaeebase-mysql-v1.0.sql文件到mysql数据库
 * 导入项目到Eclipse.
 * 修改数据库配置文件dbconfig.properties中的账号密码.
 * 启动项目,管理员账号admin/密码123456
@@ -150,7 +144,7 @@ JeeWeb 功能特点
 │  │     │ 
 │  │     ├─dbconfig.properties----数据库配置
 │  │     │ 
-│  │     ├─jeeweb.properties------项目的一些配置
+│  │     ├─javaeebase.properties------项目的一些配置
 │  │     │ 
 │  │     ├─shiro.properties-------shiro配置
 │  │     │ 

@@ -12,7 +12,7 @@ import cn.javaeebase.core.utils.StringUtils;
  * @title: SysFunctions.java
  * @package cn.javaeebase.modules.sys.tags
  * @description: 提供一些公用的函数
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年3月28日 下午10:04:07
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

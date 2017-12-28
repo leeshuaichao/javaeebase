@@ -7,7 +7,7 @@ package cn.javaeebase.core.common.constant;
  * @title: DataBaseConstant.java
  * @package cn.javaeebase.modules.common
  * @description: 常量
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年5月29日 下午9:55:00
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

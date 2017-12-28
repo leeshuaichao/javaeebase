@@ -21,7 +21,7 @@ import javax.servlet.http.HttpServletRequest;
  * @title:  OnlineSessionFactory.java   
  * @package cn.javaeebase.modules.sys.security.shiro.session.mgt
  * @description:    创建自定义的session， 添加一些自定义的数据 如 用户登录到的系统ip 用户状态（在线 隐身 强制退出） 等 比如当前所在系统等  
- * @author: 王存见   
+ * @author: 李帅超
  * @date:   2017年6月26日 下午5:57:39   
  * @version V1.0 
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

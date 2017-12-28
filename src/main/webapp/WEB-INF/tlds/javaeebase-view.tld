@@ -6,7 +6,7 @@
 	<description>Spring Framework JSP Form Tag Library</description>
 	<tlib-version>4.0</tlib-version>
 	<short-name>form</short-name>
-	<uri>/tags/jeeweb-view</uri>
+	<uri>/tags/javaeebase-view</uri>
 	<tag>
 		<!-- 树主标签 -->
 		<name>treeview</name>

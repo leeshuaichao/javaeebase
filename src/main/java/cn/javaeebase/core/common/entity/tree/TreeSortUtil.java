@@ -8,7 +8,7 @@ import cn.javaeebase.core.utils.ObjectUtils;
 /**
  * 树排序
  * 
- * @author 王存见
+ * @author 李帅超
  *
  */
 public class TreeSortUtil<ID extends Serializable> implements Serializable {

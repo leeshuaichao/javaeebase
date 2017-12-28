@@ -6,7 +6,7 @@ import cn.javaeebase.core.utils.StringUtils;
  *
  * 系统数据库默认参数类
  * 
- * @author 王存见
+ * @author 李帅超
  */
 public enum SysDatabaseEnum {
 

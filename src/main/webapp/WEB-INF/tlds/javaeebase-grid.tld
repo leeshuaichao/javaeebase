@@ -6,7 +6,7 @@
 	<description>Spring Framework JSP Form Tag Library</description>
 	<tlib-version>4.0</tlib-version>
 	<short-name>grid</short-name>
-	<uri>/tags/jeeweb-grid</uri>
+	<uri>/tags/javaeebase-grid</uri>
 
 	<tag>
 		<!-- Grid主标签 -->

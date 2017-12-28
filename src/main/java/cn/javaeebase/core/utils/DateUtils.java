@@ -8,7 +8,7 @@ import org.apache.commons.lang.time.DateFormatUtils;
 /**
  * 日期工具类, 继承org.apache.commons.lang3.time.DateUtils类
  * 
- * @author 王存见
+ * @author 李帅超
  * @date 2016-12-21
  * @version V 1.0
  */

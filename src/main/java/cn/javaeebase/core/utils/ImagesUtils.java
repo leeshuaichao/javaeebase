@@ -10,7 +10,7 @@ import org.apache.commons.lang3.ArrayUtils;
  * @title: ImagesUtils.java
  * @package cn.javaeebase.core.utils
  * @description: 判断判断文件
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年5月22日 下午9:25:14
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

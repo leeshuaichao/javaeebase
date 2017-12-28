@@ -13,7 +13,7 @@ import org.springframework.web.servlet.i18n.SessionLocaleResolver;
 /**
  * 国际化的拦截器
  * 
- * @author 王存见
+ * @author 李帅超
  * @date 2016-12-03
  * @version V 1.0
  */

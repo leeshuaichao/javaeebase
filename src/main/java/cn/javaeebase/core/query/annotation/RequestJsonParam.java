@@ -10,7 +10,7 @@ import java.lang.annotation.Target;
  * 
  * 该注解用于绑定请求参数（JSON字符串）
  * 
- * @author Zhang Kaitao
+ * @author 李帅超
  *
  */
 @Target(ElementType.PARAMETER)

@@ -10,7 +10,7 @@ import cn.javaeebase.modules.sys.entity.User;
 /**
  * 数据Entity类
  * 
- * @author 王存见
+ * @author 李帅超
  * @version 2016-12-03
  * @param <ID>
  *            主键类型

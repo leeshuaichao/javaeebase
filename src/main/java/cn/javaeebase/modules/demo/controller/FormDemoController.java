@@ -14,7 +14,7 @@ import cn.javaeebase.core.common.controller.BaseController;
  * @title: FormDemoController.java
  * @package cn.javaeebase.modules.demo.controller
  * @description: 编辑器demo
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年5月18日 下午6:17:24
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

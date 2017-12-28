@@ -14,7 +14,7 @@ import cn.javaeebase.modules.sys.entity.Log;
  * @title: 系统日志
  * @package cn.javaeebase.modules.sys.controller
  * @description: 系统日志
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年5月29日 下午11:35:26
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

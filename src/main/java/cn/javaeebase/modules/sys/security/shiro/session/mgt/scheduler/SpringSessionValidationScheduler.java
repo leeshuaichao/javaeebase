@@ -21,7 +21,7 @@ import java.util.concurrent.TimeUnit;
  * @title:  SpringSessionValidationScheduler.java   
  * @package cn.javaeebase.modules.sys.security.shiro.session.mgt.scheduler
  * @description:   使用spring的任务调度器完成 session验证
- * @author: 王存见   
+ * @author: 李帅超
  * @date:   2017年6月26日 下午5:58:19   
  * @version V1.0 
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

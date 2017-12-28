@@ -12,7 +12,7 @@ import cn.javaeebase.modules.common.bean.ValidJson;
 /**
  * @Title: 重复验证
  * @Description: 重复验证
- * @author 王存见
+ * @author 李帅超
  * @date 2017-02-23 22:27:30
  * @version V1.0
  */

@@ -10,7 +10,7 @@ import com.baomidou.mybatisplus.enums.IdType;
 /**
  * @Title 用户实体
  * @Description:
- * @author 王存见
+ * @author 李帅超
  * @date 2016-12-03 21:31:50
  * @version V1.0
  *

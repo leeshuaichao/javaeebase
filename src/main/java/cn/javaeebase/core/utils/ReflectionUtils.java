@@ -7,7 +7,7 @@ import org.apache.log4j.Logger;
 /**
  * 反射的 Utils 函数集合 提供访问私有变量, 获取泛型类型 Class, 提取集合中元素属性等 Utils 函数
  * 
- * @author 王存见
+ * @author 李帅超
  * 
  */
 public class ReflectionUtils {

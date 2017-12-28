@@ -21,7 +21,7 @@ import cn.javaeebase.modules.sys.utils.DictUtils;
  * @Title: DataGridColumnTag.java
  * @Package cn.javaeebase.core.tags.grid
  * @Description: 数据列
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年3月4日 下午9:03:39
  * @version V1.0
  * @Copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

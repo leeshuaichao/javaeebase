@@ -12,7 +12,7 @@ import cn.javaeebase.core.utils.sms.data.SmsResult;
  * @title: SmsDao.java
  * @package cn.javaeebase.core.disruptor.sms
  * @description: 短信dao
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年6月8日 上午8:42:47
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

@@ -18,7 +18,7 @@ import java.util.Set;
 /**
  * 自定义授权缓存管理类
  * 
- * @author 王存见
+ * @author 李帅超
  *
  */
 public class JedisCacheManager implements CacheManager {

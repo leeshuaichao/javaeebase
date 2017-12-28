@@ -14,7 +14,7 @@ import java.io.IOException;
 /**
  * 生成验证码
  * 
- * @author 王存见
+ * @author 李帅超
  *
  */
 public class JCaptchaFilter extends OncePerRequestFilter {

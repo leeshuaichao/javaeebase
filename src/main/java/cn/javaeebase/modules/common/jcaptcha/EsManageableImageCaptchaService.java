@@ -3,7 +3,7 @@ package cn.javaeebase.modules.common.jcaptcha;
 import com.octo.captcha.service.image.DefaultManageableImageCaptchaService;
 
 /**
- * <p>User: Zhang Kaitao
+ * <p>User: 李帅超
  * <p>Date: 13-3-22 下午3:38
  * <p>Version: 1.0
  */

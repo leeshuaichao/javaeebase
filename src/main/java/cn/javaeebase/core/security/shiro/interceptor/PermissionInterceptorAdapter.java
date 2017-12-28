@@ -15,7 +15,7 @@ import cn.javaeebase.core.utils.StringUtils;
 /**
  * 权限拦截器
  * 
- * @author 王存见
+ * @author 李帅超
  *
  */
 public class PermissionInterceptorAdapter extends HandlerInterceptorAdapter {

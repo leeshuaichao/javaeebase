@@ -23,7 +23,7 @@ import cn.javaeebase.core.utils.StringUtils;
 
 /**
  * 
- * @author 王存见
+ * @author 李帅超
  *
  */
 public class HuyiRestSDK {

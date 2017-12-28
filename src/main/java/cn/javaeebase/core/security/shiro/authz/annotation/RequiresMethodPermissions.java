@@ -10,7 +10,7 @@ import org.apache.shiro.authz.annotation.Logical;
  * 自定义权限控制器
  * 
  * 
- * @author 王存见
+ * @author 李帅超
  *
  */
 @Target({ ElementType.METHOD })

@@ -10,7 +10,7 @@ import cn.javaeebase.core.utils.sms.exception.NullException;
  * @title: SmsUtils.java
  * @package cn.javaeebase.core.utils.sms
  * @description: 短信发送工具测试类
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年6月7日 下午11:11:00
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

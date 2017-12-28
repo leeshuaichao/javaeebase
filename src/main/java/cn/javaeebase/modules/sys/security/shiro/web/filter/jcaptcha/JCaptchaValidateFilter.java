@@ -18,7 +18,7 @@ import java.io.IOException;
 /**
  * 验证码验证
  * 
- * @author 王存见
+ * @author 李帅超
  * @date 2017-02-23
  *
  */

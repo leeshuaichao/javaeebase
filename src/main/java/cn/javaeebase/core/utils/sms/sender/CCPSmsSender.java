@@ -15,7 +15,7 @@ import cn.javaeebase.core.utils.sms.sender.cloopen.CCPRestSDK;
 /**
  * 云通讯短信发送
  * 
- * @author 王存见
+ * @author 李帅超
  *
  */
 @SuppressWarnings("unchecked")

@@ -19,7 +19,7 @@ import cn.javaeebase.core.utils.convert.StringConvertEditor;
 /**
  * 基础控制器 http://blog.csdn.net/catoop/article/details/51278675 写得不错的表单验证
  * 
- * @author 王存见
+ * @author 李帅超
  * @date 2016-12-21
  * @version V 1.0
  */

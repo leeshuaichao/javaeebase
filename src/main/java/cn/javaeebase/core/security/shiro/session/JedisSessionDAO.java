@@ -22,7 +22,7 @@ import java.util.Set;
 /**
  * 自定义授权会话管理类
  * 
- * @author 王存见
+ * @author 李帅超
  *
  */
 public class JedisSessionDAO extends AbstractSessionDAO implements SessionDAO {

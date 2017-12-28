@@ -24,7 +24,7 @@ import cn.javaeebase.modules.sys.utils.UserUtils;
  * @title:  FormAuthenticationFilter.java   
  * @package cn.javaeebase.modules.sys.security.shiro.web.filter.authc
  * @description:   表单验证  
- * @author: 王存见   
+ * @author: 李帅超
  * @date:   2017年6月26日 下午5:56:03   
  * @version V1.0 
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

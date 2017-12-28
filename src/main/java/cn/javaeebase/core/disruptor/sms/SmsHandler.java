@@ -12,7 +12,7 @@ import cn.javaeebase.core.utils.sms.sender.SmsSender;
  * @title: SmsHandler.java
  * @package cn.javaeebase.core.disruptor.sms
  * @description: 内容消费者
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年6月7日 下午11:20:32
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

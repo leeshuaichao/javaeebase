@@ -10,7 +10,7 @@ import net.sf.ehcache.Element;
  * @title:  CacheUtils.java   
  * @package cn.javaeebase.core.utils
  * @description: Cache工具类 
- * @author: 王存见   
+ * @author: 李帅超
  * @date:   2017年6月27日 下午10:41:03   
  * @version V1.0 
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

@@ -18,7 +18,7 @@ import cn.javaeebase.core.security.shiro.authz.annotation.RolesAllowed;
 /**
  * 权限注解处理器
  * 
- * @author 王存见
+ * @author 李帅超
  *
  */
 @SuppressWarnings({ "unchecked", "serial" })

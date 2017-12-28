@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>  
-<!DOCTYPE html-component SYSTEM "http://www.jeeweb.cn/dtd/html-component-1.0.dtd">  
+<!DOCTYPE html-component SYSTEM "http://www.javaeebase.cn/dtd/html-component-1.0.dtd">
 <html-component> 
     <css name="favicon">  
     <![CDATA[ 

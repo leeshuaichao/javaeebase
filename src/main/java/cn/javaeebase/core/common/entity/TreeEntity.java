@@ -13,7 +13,7 @@ import cn.javaeebase.core.utils.StringUtils;
 /**
  * 树抽象实体基类
  * 
- * @author 王存见
+ * @author 李帅超
  *
  * 
  */

@@ -15,7 +15,7 @@ import cn.javaeebase.modules.sys.service.IDictService;
 /**
  * 字典工具类
  * 
- * @author 王存见
+ * @author 李帅超
  * @version 2017-02-09
  */
 @SuppressWarnings("unchecked")

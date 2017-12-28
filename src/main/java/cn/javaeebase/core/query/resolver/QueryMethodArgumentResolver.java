@@ -21,7 +21,7 @@ import java.util.Map;
  * <pre>
  *     查询参数格式如下：
  *     1.1、默认查询字符串
- *         query.realname王存见
+ *         query.realname李帅超
  *         query.age=12
  *     1.2、控制器处理方法写法
  *         public void test(Queryable queryable);
@@ -36,7 +36,7 @@ import java.util.Map;
  *          public void test(@Query(page = false, sort = false) Queryable queryable);
  * </pre>
  * <p>
- * User: 王存见
+ * User: 李帅超
  * <p>
  * Date: 17-02-11 下午12：15
  * <p>

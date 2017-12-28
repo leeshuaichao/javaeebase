@@ -26,7 +26,7 @@ import freemarker.template.TemplateException;
  * @title: ComponentTag.java
  * @package cn.javaeebase.core.tags.html
  * @description: 组建获取标签
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年5月13日 上午9:05:06
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

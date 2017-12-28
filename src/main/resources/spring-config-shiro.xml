@@ -12,7 +12,7 @@
 	</bean>
     <!-- 缓存管理器
     <bean id="shiroCacheManager" class="cn.javaeebasebase.core.security.shiro.cache.JedisCacheManager">
-        <property name="cacheKeyPrefix" value="jeeweb_cache_" />
+        <property name="cacheKeyPrefix" value="javaeebase_cache_" />
     </bean> -->
 
 	<!-- 凭证匹配器 -->

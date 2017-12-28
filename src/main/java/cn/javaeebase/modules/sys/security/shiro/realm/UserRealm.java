@@ -25,7 +25,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 /**
  * http://blog.csdn.net/babys/article/details/50151407
  * 
- * @author 王存见
+ * @author 李帅超
  *
  */
 public class UserRealm extends AuthorizingRealm {

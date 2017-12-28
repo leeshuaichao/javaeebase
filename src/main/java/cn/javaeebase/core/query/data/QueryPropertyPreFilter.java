@@ -14,7 +14,7 @@ import cn.javaeebase.core.utils.ComplexPropertyPreFilter;
  * @title: PropertyPreFilterable.java
  * @package cn.javaeebase.core.query.data
  * @description: JSON格式化输出
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年5月1日 下午9:43:09
  * @version V1.0
  * @param <T>

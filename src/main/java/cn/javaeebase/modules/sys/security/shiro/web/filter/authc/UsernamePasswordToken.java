@@ -6,7 +6,7 @@ package cn.javaeebase.modules.sys.security.shiro.web.filter.authc;
  * @title:  UsernamePasswordToken.java   
  * @package cn.javaeebase.modules.sys.security.shiro.web.filter.authc
  * @description:  用户和密码（包含验证码）令牌类   
- * @author: 王存见   
+ * @author: 李帅超
  * @date:   2017年6月26日 下午5:56:18   
  * @version V1.0 
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

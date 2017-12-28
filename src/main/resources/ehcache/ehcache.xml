@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ehcache name="jeeweb-mybatis">
+<ehcache name="javaeebase-mybatis">
 
 	<diskStore path="java.io.tmpdir" />
 

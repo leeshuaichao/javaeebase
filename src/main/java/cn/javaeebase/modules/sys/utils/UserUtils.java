@@ -30,7 +30,7 @@ import cn.javaeebase.modules.sys.service.IUserService;
  * @title: UserUtils.java
  * @package cn.javaeebase.modules.sys.utils
  * @description: 用户工具类
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年6月26日 下午6:00:39
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

@@ -19,7 +19,7 @@ import cn.javaeebase.core.utils.StringUtils;
  * @title: GridSelectTag.java
  * @package cn.javaeebase.core.tags.form
  * @description: 表格选择
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年6月17日 下午1:59:17
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

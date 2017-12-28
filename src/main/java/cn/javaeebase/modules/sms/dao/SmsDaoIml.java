@@ -22,7 +22,7 @@ import cn.javaeebase.modules.sms.service.ISmsTemplateService;
  * @title: SmsDaoIml.java
  * @package cn.javaeebase.modules.sms.dao
  * @description: 短信信息返回
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年6月8日 上午11:20:04
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * jcaptcha 验证码验证
  * 
- * @author 王存见
+ * @author 李帅超
  *
  */
 @Controller

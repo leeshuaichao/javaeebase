@@ -8,7 +8,7 @@ import cn.javaeebase.core.query.data.Page;
 /**
  * 页面展示分页
  * 
- * @author 王存见
+ * @author 李帅超
  *
  * @param <T>
  */

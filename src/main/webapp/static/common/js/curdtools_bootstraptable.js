@@ -1,8 +1,8 @@
 ﻿/*!
- * Copyright &copy; 2016-2020 <a href="http://www.jeeweb.cn/">JeeWeb</a> All rights reserved.
+ * Copyright &copy; 2016-2020 <a href="http://www.javaeebase.cn/">JeeWeb</a> All rights reserved.
  * 
  * 通用公共方法
- * @author 王存见
+ * @author 李帅超
  * @version 2016-12-04
  */
 /**

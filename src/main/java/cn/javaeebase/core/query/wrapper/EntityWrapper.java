@@ -25,7 +25,7 @@ import com.baomidou.mybatisplus.toolkit.StringUtils;
  * @title: EntityWrapper.java
  * @package cn.javaeebase.core.query.wrapper
  * @description: 对象封装操作类，定义T-SQL语法
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年7月16日 下午12:08:48
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

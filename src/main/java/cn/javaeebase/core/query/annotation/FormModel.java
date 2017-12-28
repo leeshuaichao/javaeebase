@@ -10,7 +10,7 @@ import java.lang.annotation.Target;
 /**
  * <p>绑定请求参数到模型，并且暴露到模型中供页面使用</p>
  * <p>不同于@ModelAttribute</p>
- * @author Zhang Kaitao
+ * @author 李帅超
  *
  */
 @Target({ElementType.PARAMETER})

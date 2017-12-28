@@ -12,7 +12,7 @@ import java.lang.annotation.Documented;
  * hades 默认的分页数据，先从参数找，参数找不到从方法上找
  * </p>
  *
- * @author Zhang Kaitao
+ * @author 李帅超
  */
 @Target({ ElementType.METHOD, ElementType.PARAMETER })
 @Retention(RetentionPolicy.RUNTIME)

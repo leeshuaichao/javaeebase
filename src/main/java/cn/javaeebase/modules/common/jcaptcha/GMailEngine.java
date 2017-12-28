@@ -28,7 +28,7 @@ import com.octo.captcha.image.gimpy.GimpyFactory;
  * @title: GMailEngine.java
  * @package cn.javaeebase.modules.common.jcaptcha
  * @description: 仿照JCaptcha2.0编写GMail验证码样式的图片引擎.
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年6月26日 下午6:02:25
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

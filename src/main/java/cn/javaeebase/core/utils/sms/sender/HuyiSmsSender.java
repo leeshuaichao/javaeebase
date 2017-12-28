@@ -13,7 +13,7 @@ import cn.javaeebase.core.utils.sms.sender.huyi.HuyiRestSDK;
 /**
  * 互亿无线
  * 
- * @author 王存见
+ * @author 李帅超
  *
  */
 public class HuyiSmsSender extends SmsSender {

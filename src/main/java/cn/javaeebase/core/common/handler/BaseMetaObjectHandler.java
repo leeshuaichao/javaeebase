@@ -15,7 +15,7 @@ import cn.javaeebase.modules.sys.utils.UserUtils;
  * @title: MyMetaObjectHandler.java
  * @package cn.javaeebase.core.common.handler
  * @description: 填充创建时间，创建人，更新时间，更新人
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年7月20日 上午10:55:42
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

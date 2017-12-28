@@ -28,7 +28,7 @@ import cn.javaeebase.core.query.annotation.RequestJsonParam;
  * 
  * 解析请求参数json字符串
  * 
- * @author Zhang Kaitao
+ * @author 李帅超
  * @since 3.1
  */
 @SuppressWarnings({ "unchecked", "rawtypes" })

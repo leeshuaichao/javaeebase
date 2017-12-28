@@ -18,7 +18,7 @@ import java.io.IOException;
  * @title: SysUserFilter.java
  * @package cn.javaeebase.modules.sys.security.shiro.web.filter.user
  * @description: 验证用户过滤器 1、用户是否删除 2、用户是否锁定
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年6月26日 下午5:55:03
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.

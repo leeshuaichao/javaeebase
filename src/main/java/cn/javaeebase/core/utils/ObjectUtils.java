@@ -14,7 +14,7 @@ import cn.javaeebase.modules.sys.entity.User;
  * @title: ObjectUtils.java
  * @package cn.javaeebase.core.utils
  * @description: 对象工具类
- * @author: 王存见
+ * @author: 李帅超
  * @date: 2017年5月7日 下午10:57:53
  * @version V1.0
  * @copyright: 2017 www.javaeebase.cn Inc. All rights reserved.
