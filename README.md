@@ -2,7 +2,7 @@ javaeebase
 ===============
 简介
 -----------------------------------
-JavaEEBase Mybatis版本是一款基于SpringMVC+Spring+Mybatis+Mybatis Plus的敏捷开发系统；它是一款具有代码生成功能的智能快速开发平台；是以Spring Framework为核心容器，Spring MVC为模型视图控制器，Mybatis为数据访问层， Apache Shiro为权限授权层，Ehcahe对常用数据进行缓存，Disruptor作为并发框架，Bootstrap作为前端框架的优秀 **开源** 系统。
+JavaEEBase版本是一款基于SpringMVC+Spring+Mybatis+Mybatis Plus的敏捷开发系统；它是一款具有代码生成功能的智能快速开发平台；是以Spring Framework为核心容器，Spring MVC为模型视图控制器，Mybatis为数据访问层， Apache Shiro为权限授权层，Ehcahe对常用数据进行缓存，Disruptor作为并发框架，Bootstrap作为前端框架的优秀 **开源** 系统。
 
 JavaEEBase是一款 **全开源开发平台** ，特别 **代码生成器模块也采用开源模式** ，各位开发者可以根据自己的需要改造出更加适合自己的代码生成器，不管是做项目、学习、接私活它都将是你的最佳拍档；
 
@@ -75,7 +75,7 @@ JavaEEBase 功能特点
 简单使用说明
 -----------------------------------
 * 导入sql/javaeebase-mysql-v1.0.sql文件到mysql数据库
-* 导入项目到Eclipse.
+* 导入项目到Idea.
 * 修改数据库配置文件dbconfig.properties中的账号密码.
 * 启动项目,管理员账号admin/密码123456
 
@@ -199,6 +199,3 @@ JavaEEBase 功能特点
 
 
 ## 感谢
-@baomidou
-mybatis 增强工具包，简化 CRUD 操作
-https://git.oschina.net/baomidou/mybatis-plus
