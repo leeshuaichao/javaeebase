@@ -18,13 +18,18 @@
 		<#list columns as column>
 			<#if column.isForm?? && column.isForm>
 			<#assign index=index+1 />
-			<#if index%2==1> 
+			<#if index%2==1 || column.formType == "textarea" ||  column.formType == "editor">
 				<tr>
 			</#if>
 					<td  class="width-15 active text-right">	
 		              <label><#if column.nullable??&&!column.nullable><font color="red">*</font></#if><#if column.remarks??&&column.remarks!="">${column.remarks}<#else>${column.javaField}</#if>:</label>
 		            </td>
+				<#if column.formType != "textarea" &&  column.formType != "editor">
 					<td class="width-35">
+				</#if>
+				<#if column.formType == "textarea" ||  column.formType == "editor">
+					<td colspan="3" class="">
+				</#if>
 			<#if column.formType == "input">
 						<form:input path="${column.javaField}" htmlEscape="false" class="form-control"  <#if column.regexValid??&&column.regexValid!="">datatype="${column.regexValid}"<#else><#if column.validType??&&column.validType!="">datatype="${column.validType}<#if column.validType=="s"||column.validType=="n"><#if column.minSize??>${column.minSize}<#if column.maxSize??>-${column.maxSize}<#else>-${column.columnSize}</#if></#if></#if>"</#if></#if>  <#if column.nullmsg??&&column.nullmsg!="">nullmsg="${column.nullmsg}"</#if>  />
 			<#elseif column.formType == "textarea">
@@ -46,7 +51,7 @@
 			</#if>
 						<label class="Validform_checktip"></label>
 					</td>
-			<#if index%2==0> 
+			<#if index%2==0 || column.formType == "textarea" ||  column.formType == "editor">
 				</tr>
 			</#if>
 			</#if>

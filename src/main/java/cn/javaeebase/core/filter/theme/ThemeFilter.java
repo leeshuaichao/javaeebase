@@ -1,18 +1,39 @@
+package cn.javaeebase.core.filter.theme;
+
+import cn.javaeebase.core.utils.CookieUtils;
+
+import javax.servlet.*;
+import javax.servlet.annotation.WebFilter;
+import javax.servlet.http.Cookie;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import java.io.IOException;
+
 /**
  * @author 李帅超
- * @Description: TODO
+ * @Description: TODO 主题
  * @date 2018-01-04 10:42
  */
-@javax.servlet.annotation.WebFilter(filterName = "ThemeFilter")
-public class ThemeFilter implements javax.servlet.Filter {
+@WebFilter(filterName = "ThemeFilter")
+public class ThemeFilter implements Filter {
+    @Override
     public void destroy() {
     }
-
-    public void doFilter(javax.servlet.ServletRequest req, javax.servlet.ServletResponse resp, javax.servlet.FilterChain chain) throws javax.servlet.ServletException, java.io.IOException {
-        chain.doFilter(req, resp);
+    @Override
+    public void doFilter(ServletRequest req, ServletResponse resp, FilterChain chain) throws ServletException, IOException {
+        HttpServletRequest request = (HttpServletRequest) req;
+        Cookie[] cookies = request.getCookies();
+        for (Cookie cookie : cookies) {
+            if (cookie!=null&&"theme".equals(cookie.getName())){
+                cookie.setValue("uadmin");
+            }
+        }
+        HttpServletResponse response = (HttpServletResponse) resp;
+        CookieUtils.setCookie(response,"theme","uadmin");
+        chain.doFilter(request, response);
     }
-
-    public void init(javax.servlet.FilterConfig config) throws javax.servlet.ServletException {
+    @Override
+    public void init(FilterConfig config) throws ServletException {
 
     }
 

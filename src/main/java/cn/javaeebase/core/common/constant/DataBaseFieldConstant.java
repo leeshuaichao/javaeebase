@@ -28,7 +28,7 @@ public interface DataBaseFieldConstant {
 	 */
 	public static final String CREATE_DATE = "createDate";
 	/**
-	 * 创建时间
+	 * 更新时间
 	 */
 	public static final String UPDATE_BY = "updateBy";
 	/**

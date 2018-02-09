@@ -18,17 +18,17 @@ import org.springframework.web.servlet.i18n.SessionLocaleResolver;
  * @version V 1.0
  */
 public class LocaleInterceptor implements HandlerInterceptor {
-
+	@Override
 	public void afterCompletion(HttpServletRequest request, HttpServletResponse response, Object object,
 			Exception exception) throws Exception {
 
 	}
-
+	@Override
 	public void postHandle(HttpServletRequest request, HttpServletResponse response, Object object,
 			ModelAndView modelAndView) throws Exception {
 
 	}
-
+	@Override
 	public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object object) throws Exception {
 		String langType = "zh";
 		if (langType.equals("zh")) {

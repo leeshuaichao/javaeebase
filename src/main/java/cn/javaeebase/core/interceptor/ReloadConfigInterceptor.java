@@ -19,17 +19,17 @@ public class ReloadConfigInterceptor implements HandlerInterceptor {
 	public void setReloadConfigInterval(long reloadConfigInterval) {
 		this.reloadConfigInterval = reloadConfigInterval;
 	}
-
+	@Override
 	public void afterCompletion(HttpServletRequest request, HttpServletResponse response, Object object,
 			Exception exception) throws Exception {
 
 	}
-
+	@Override
 	public void postHandle(HttpServletRequest request, HttpServletResponse response, Object object,
 			ModelAndView modelAndView) throws Exception {
 
 	}
-
+	@Override
 	public boolean preHandle(HttpServletRequest request, HttpServletResponse response, Object object) throws Exception {
 		if (developMode) {
 			/**

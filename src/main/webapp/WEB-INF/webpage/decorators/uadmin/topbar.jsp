@@ -7,7 +7,7 @@
     <nav id="topbar" role="navigation" style="margin-bottom: 0; z-index: 2;" class="navbar navbar-default navbar-static-top">
        <div class="navbar-header">
            <button type="button" data-toggle="collapse" data-target=".sidebar-collapse" class="navbar-toggle"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
-           </button><a id="logo" href="${adminPath}" class="navbar-brand"><span class="fa fa-rocket"></span><span class="logo-text">JeeWeb</span><span style="display: none" class="logo-text-icon">JW</span></a>
+           </button><a id="logo" href="${adminPath}" class="navbar-brand"><span class="fa fa-rocket"></span><span class="logo-text">JavaEEBase</span><span style="display: none" class="logo-text-icon">B4J</span></a>
        </div>
        <div class="topbar-main"><a id="menu-toggle" href="#" class="hidden-xs"><i class="fa fa-bars"></i></a>
            <ul class="nav navbar-nav    ">
@@ -299,7 +299,7 @@
                        <li><a href="${adminPath}/logout"><i class="fa fa-key"></i>退出</a></li>
                    </ul>
                </li>
-               <li class="dropdown hidden-xs">
+               <%--<li class="dropdown hidden-xs">
                    <!--BEGIN THEME SETTING--><a id="theme-setting" href="javascript:;" data-hover="dropdown" data-step="1" data-intro="&lt;b&gt;Header&lt;/b&gt;, &lt;b&gt;sidebar&lt;/b&gt;, &lt;b&gt;border style&lt;/b&gt; and &lt;b&gt;color&lt;/b&gt;, all of them can change for you to create the best" data-position="left" class="dropdown-toggle"><i class="fa fa-cogs"></i></a>
                    <ul class="dropdown-menu dropdown-theme-setting pull-right">
                        <li>
@@ -353,7 +353,7 @@
                        </li>
                    </ul>
                    <!--END THEME SETTING-->
-               </li>
+               </li>--%>
            </ul>
        </div>
    </nav>
